@@ -51,9 +51,9 @@ Kumpulan implementasi Stack, Queue, Linked List, dan algoritma pencarian serta p
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ginafitriani&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kompnew053&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginafitriani&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kompnew053&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
