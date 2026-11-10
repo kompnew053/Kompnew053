@@ -1,10 +1,10 @@
 # Halo, Saya Gina Fitriani! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ginafitriani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ginafitriani&label=Profile%20Views&color=e88ac4&style=flat" alt="Profile Views" />
 </p>
 
-## 💫 Tentang Saya
+## Tentang Saya
 
 Saya seorang pengembang perangkat lunak pemula yang sedang fokus mempelajari pemrograman dan struktur data. Saat ini saya aktif mengeksplorasi bahasa **C++** untuk membangun berbagai logika program dan aplikasi fundamental.
 
@@ -32,19 +32,6 @@ Saya seorang pengembang perangkat lunak pemula yang sedang fokus mempelajari pem
 - Git & GitHub
 - Problem Solving dengan C++
 - Dasar Pengembangan Perangkat Lunak
-
----
-
-## 🚀 Proyek Saya
-
-### 🧮 Kalkulator C++
-Aplikasi kalkulator sederhana menggunakan bahasa C++ untuk operasi matematika dasar.
-
-### 🍽️ Sistem Kantin Kampus
-Program simulasi pemesanan makanan dan pengelolaan transaksi kantin berbasis C++.
-
-### 📖 Latihan Struktur Data
-Kumpulan implementasi Stack, Queue, Linked List, dan algoritma pencarian serta pengurutan.
 
 ---
 
